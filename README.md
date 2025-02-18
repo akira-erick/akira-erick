@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Erick H. A. Kajitani Motta 👋
 
-<!--
-**akira-erick/akira-erick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📧 Contact Information:
+- **Email:** kajitani.motta@gmail.com
 
-Here are some ideas to get you started:
+## 💼 Job:
+- **Current State:** Student of BES (Softawre Engineering) in IFSP São Carlos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Interests & Hobbies:
+- Musician
+- Game enthusiast
+- Competitive programming
+
+- ## 🛠 Skills & Technologies:
+- Frontend: React, HTML, CSS
+- Backend: Node.js, Express, Python(fastAPI, Django)
+- Databases: MySQL, MongoDB, PostgreSQL
+- Tools: Git
+
+## 👨‍💻 Programming Languages:
+- Python
+- Java  
+- Javascript 
+- C/C++
+
+- ## 🌍 Languages:
+- English (Intermediate)
+- Spanish (Intermediate)
+- Portuguese (Fluent)
+
+Feel free to reach out if you'd like to connect! 🚀
