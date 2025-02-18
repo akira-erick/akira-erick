@@ -11,7 +11,7 @@
 - Game enthusiast
 - Competitive programming
 
-- ## 🛠 Skills & Technologies:
+## 🛠 Skills & Technologies:
 - Frontend: React, HTML, CSS
 - Backend: Node.js, Express, Python(fastAPI, Django)
 - Databases: MySQL, MongoDB, PostgreSQL
@@ -23,7 +23,7 @@
 - Javascript 
 - C/C++
 
-- ## 🌍 Languages:
+## 🌍 Languages:
 - English (Intermediate)
 - Spanish (Intermediate)
 - Portuguese (Fluent)
