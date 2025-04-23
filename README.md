@@ -22,6 +22,7 @@
 - Java  
 - Javascript 
 - C/C++
+- Rust
 
 ## 🌍 Languages:
 - English (Intermediate)
