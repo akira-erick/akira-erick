@@ -4,7 +4,7 @@
 - **Email:** kajitani.motta@gmail.com
 
 ## 💼 Job:
-- **Current State:** Student of BES (Softawre Engineering) in IFSP São Carlos
+- **Current State:** Student of BES (Software Engineering) in IFSP São Carlos
 
 ## 🌱 Interests & Hobbies:
 - Musician
