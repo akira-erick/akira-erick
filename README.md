@@ -7,9 +7,9 @@
 - **Current State:** Student of BES (Software Engineering) in IFSP São Carlos
 
 ## 🌱 Interests & Hobbies:
-- Musician
-- Game enthusiast
-- Competitive programming
+- Musician 🎶
+- Game enthusiast 🎮
+- Competitive programming 🏆
 
 ## 🛠 Skills & Technologies:
 - Frontend: React, HTML, CSS
@@ -18,11 +18,11 @@
 - Tools: Git
 
 ## 👨‍💻 Programming Languages:
-- Python
-- Java  
-- Javascript 
-- C/C++
-- Rust
+- Python 🐍
+- Java ☕
+- Javascript ✨
+- C/C++ 💻
+- Rust 🦀
 
 ## 🌍 Languages:
 - English (Intermediate)
